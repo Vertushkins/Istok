@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.406f6d20.css",
-    "main.js": "/static/js/main.71862019.js",
-    "static/media/map.jpg": "/static/media/map.ea3c9d7627d2f49f69df.jpg",
-    "static/media/ofont.ru_Avenir_Next.ttf": "/static/media/ofont.ru_Avenir_Next.2af2d651d814a5a43ac7.ttf",
-    "static/media/banner_1.png": "/static/media/banner_1.d05c19df28841885bffe.png",
-    "index.html": "/index.html",
-    "main.406f6d20.css.map": "/static/css/main.406f6d20.css.map",
-    "main.71862019.js.map": "/static/js/main.71862019.js.map"
+    "main.css": "/Istok/static/css/main.6d7b3aca.css",
+    "main.js": "/Istok/static/js/main.b4596937.js",
+    "static/media/map.jpg": "/Istok/static/media/map.ea3c9d7627d2f49f69df.jpg",
+    "static/media/ofont.ru_Avenir_Next.ttf": "/Istok/static/media/ofont.ru_Avenir_Next.2af2d651d814a5a43ac7.ttf",
+    "static/media/banner_1.png": "/Istok/static/media/banner_1.d05c19df28841885bffe.png",
+    "static/media/banner_2.png": "/Istok/static/media/banner_2.5f7cf69321c66b5b612d.png",
+    "static/media/sun.png": "/Istok/static/media/sun.8a47484f892f37990531.png",
+    "static/media/drop.png": "/Istok/static/media/drop.49b57ab2dfa34e7e370c.png",
+    "index.html": "/Istok/index.html",
+    "main.6d7b3aca.css.map": "/Istok/static/css/main.6d7b3aca.css.map",
+    "main.b4596937.js.map": "/Istok/static/js/main.b4596937.js.map"
   },
   "entrypoints": [
-    "static/css/main.406f6d20.css",
-    "static/js/main.71862019.js"
+    "static/css/main.6d7b3aca.css",
+    "static/js/main.b4596937.js"
   ]
 }
