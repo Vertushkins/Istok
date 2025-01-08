@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Istok/static/css/main.6d7b3aca.css",
-    "main.js": "/Istok/static/js/main.f47d6a24.js",
+    "main.js": "/Istok/static/js/main.115d8105.js",
     "static/media/map.jpg": "/Istok/static/media/map.ea3c9d7627d2f49f69df.jpg",
     "static/media/ofont.ru_Avenir_Next.ttf": "/Istok/static/media/ofont.ru_Avenir_Next.2af2d651d814a5a43ac7.ttf",
     "static/media/banner_1.png": "/Istok/static/media/banner_1.d05c19df28841885bffe.png",
@@ -10,10 +10,10 @@
     "static/media/drop.png": "/Istok/static/media/drop.49b57ab2dfa34e7e370c.png",
     "index.html": "/Istok/index.html",
     "main.6d7b3aca.css.map": "/Istok/static/css/main.6d7b3aca.css.map",
-    "main.f47d6a24.js.map": "/Istok/static/js/main.f47d6a24.js.map"
+    "main.115d8105.js.map": "/Istok/static/js/main.115d8105.js.map"
   },
   "entrypoints": [
     "static/css/main.6d7b3aca.css",
-    "static/js/main.f47d6a24.js"
+    "static/js/main.115d8105.js"
   ]
 }
