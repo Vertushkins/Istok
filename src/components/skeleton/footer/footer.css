@@ -1,0 +1,43 @@
+footer {
+    display: flex;
+    justify-content: space-between;
+
+    height: 250px;
+    padding: 50px 80px 50px 80px;
+
+    background-color: #D7ECF5;
+}
+
+footer img {
+    width: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer-item {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    width: 250px;
+
+    font-family: "Avenir Next";
+    color: #2C4550;
+}
+
+#email {
+    color: #00397D;
+    font-weight: 300;
+    font-size: 25px;
+}
+
+#footer ul {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 30px;
+
+    color: #00397D;
+    font-size: 20px;
+}

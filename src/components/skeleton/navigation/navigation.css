@@ -1,0 +1,16 @@
+a {
+    text-decoration: none; /* Убирает подчеркивание */
+    color: inherit; /* Устанавливает цвет ссылки равным цвету текста */
+    font-family: "Avenir Next";
+}
+
+ul {
+    list-style: none;
+}
+
+.choosed {
+    color: white;
+    background-color: #00397D;
+
+    border-radius: 30px;
+}

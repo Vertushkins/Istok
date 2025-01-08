@@ -1,0 +1,10 @@
+.banner {
+	position: relative;
+
+	padding-bottom: 100px;
+}
+
+.banner img {
+	display: block;
+	width: 100%;
+}

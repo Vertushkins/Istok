@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.406f6d20.css",
+    "main.js": "/static/js/main.71862019.js",
+    "static/media/map.jpg": "/static/media/map.ea3c9d7627d2f49f69df.jpg",
+    "static/media/ofont.ru_Avenir_Next.ttf": "/static/media/ofont.ru_Avenir_Next.2af2d651d814a5a43ac7.ttf",
+    "static/media/banner_1.png": "/static/media/banner_1.d05c19df28841885bffe.png",
+    "index.html": "/index.html",
+    "main.406f6d20.css.map": "/static/css/main.406f6d20.css.map",
+    "main.71862019.js.map": "/static/js/main.71862019.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.406f6d20.css",
+    "static/js/main.71862019.js"
+  ]
+}

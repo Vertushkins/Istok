@@ -1,0 +1,18 @@
+#sun {
+    position: absolute;
+    right: -90px;
+    top: -200px;
+    width: 380px;
+}
+
+#drop {
+    position: absolute;
+    left: -120px;
+    top: -160px;
+    width: 210px;
+    transform: scaleX(-1);
+}
+
+.text-container {
+    position: relative;
+}

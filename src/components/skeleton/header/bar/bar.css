@@ -1,0 +1,19 @@
+#bar ul {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+
+    position: absolute;
+    top: 50px;
+    right: 100px;
+
+    color: #00397D;
+}
+
+#bar li {
+    padding: 10px;
+    
+    cursor: pointer;
+
+    font-size: 20px;
+}
