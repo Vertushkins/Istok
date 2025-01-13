@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/Istok/static/css/main.6d7b3aca.css",
-    "main.js": "/Istok/static/js/main.b4596937.js",
+    "main.css": "/Istok/static/css/main.49efb00f.css",
+    "main.js": "/Istok/static/js/main.b9904a29.js",
+    "static/media/news_1.png": "/Istok/static/media/news_1.db887a2865c4ab9107b4.png",
+    "static/media/news_4.png": "/Istok/static/media/news_4.24d18986e4a1729949b2.png",
+    "static/media/news_3.png": "/Istok/static/media/news_3.eb8a2784f5174f4fb72a.png",
     "static/media/map.jpg": "/Istok/static/media/map.ea3c9d7627d2f49f69df.jpg",
+    "static/media/news_2.png": "/Istok/static/media/news_2.7a1bf1ac8d403841d198.png",
     "static/media/ofont.ru_Avenir_Next.ttf": "/Istok/static/media/ofont.ru_Avenir_Next.2af2d651d814a5a43ac7.ttf",
     "static/media/banner_1.png": "/Istok/static/media/banner_1.d05c19df28841885bffe.png",
     "static/media/banner_2.png": "/Istok/static/media/banner_2.5f7cf69321c66b5b612d.png",
     "static/media/sun.png": "/Istok/static/media/sun.8a47484f892f37990531.png",
     "static/media/drop.png": "/Istok/static/media/drop.49b57ab2dfa34e7e370c.png",
     "index.html": "/Istok/index.html",
-    "main.6d7b3aca.css.map": "/Istok/static/css/main.6d7b3aca.css.map",
-    "main.b4596937.js.map": "/Istok/static/js/main.b4596937.js.map"
+    "main.49efb00f.css.map": "/Istok/static/css/main.49efb00f.css.map",
+    "main.b9904a29.js.map": "/Istok/static/js/main.b9904a29.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d7b3aca.css",
-    "static/js/main.b4596937.js"
+    "static/css/main.49efb00f.css",
+    "static/js/main.b9904a29.js"
   ]
 }
