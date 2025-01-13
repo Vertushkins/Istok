@@ -1,9 +1,9 @@
 import Page from "../skeleton/page/Page";
 import Content from "../content/Content";
 import Container from "../cards/container/Container";
+import {NEWS_ARTICLES} from "../../data/news.js";
 
 const News = () => {
-    console.log("news");
     return(
         <Page name="news">
             <Content>
@@ -11,7 +11,7 @@ const News = () => {
             </Content>
 
             <Content>
-                <Container />
+                <Container data={NEWS_ARTICLES} />
             </Content>
         </Page>
     );

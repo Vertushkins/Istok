@@ -5,12 +5,14 @@ import Banner from "../main_banner/Banner";
 import Page from "../skeleton/page/Page";
 import sun from "../../assets/img/sun.png";
 import drop from "../../assets/img/drop.png";
+// import Rotate from "./Rotate";
 import "./about.css";
 
 const About = () => {
     return(
         <Page name="about">
             <Content>
+                {/* <Rotate /> */}
                 <img src={sun} id="sun" />
                 <h1>О ПРОЕКТЕ</h1>
                     <p>Наш проект создан, чтобы объединить усилия жителей и власти в решении проблемы загрязнения воды. 

@@ -1,5 +1,7 @@
 import Page from "../skeleton/page/Page";
 import Content from "../content/Content";
+import Container from "../cards/container/Container";
+import {SUGGESTIONS_ARTICLES} from "../../data/suggestions.js";
 
 const Suggestions = () => {
     return(
@@ -14,6 +16,10 @@ const Suggestions = () => {
                 <p>Если у Вас есть идея, которая поможет нам улучшить водоснабжение в Элисте,
 заполните форму и мы обязательно рассмотрим ее и отправим на голосование.
 Возможно, именно Ваша идея сделает нам город еще лучше!</p>
+            </Content>
+
+            <Content>
+                <Container data={SUGGESTIONS_ARTICLES} />
             </Content>
         </Page>
     );
